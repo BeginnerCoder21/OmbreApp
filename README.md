@@ -15,13 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 
 https://user-images.githubusercontent.com/60263821/187072484-7501f4d0-3506-423f-ba41-9aa1ca85f1f8.mp4
 
-
-<h4>Some Screenshots of the App</h4>
-<img src="https://user-images.githubusercontent.com/60263821/187072756-13ce0e79-1dc8-4191-90ce-1380a4928918.jpeg" alt="ss1" height="200px"/>
-<img src="https://user-images.githubusercontent.com/60263821/187072757-fca427ef-df23-4d3a-a7c7-82bc0897c934.jpeg" alt="ss1" height="200px"/>
-<img src="https://user-images.githubusercontent.com/60263821/187072761-f26999cf-8dd6-4eb3-bd8a-f728f94a298c.jpeg" alt="ss1" height="200px"/>
-<img src="https://user-images.githubusercontent.com/60263821/187072764-78e3a639-fbed-4d26-8e31-c61493dea884.jpeg" alt="ss1" height="200px"/>
-
 <h4>You can Download the APK from <a href="https://drive.google.com/file/d/1mEqgIHA3oqhLvcV7Gq6qM8U99BO3efgt/view?usp=sharing">here</a> </h4>
 
 For help getting started with Flutter, view our
